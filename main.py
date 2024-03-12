@@ -7,6 +7,7 @@ from nltk.corpus import wordnet
 
 import random
 
+
 import os
 
 word_bank = wordnet.words()
