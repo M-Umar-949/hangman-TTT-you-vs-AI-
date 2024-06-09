@@ -24,5 +24,5 @@ This game requires Python 3.x to be installed on your system. No additional pack
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/M-Umar-949/hangman.git
+   git clone https://github.com/M-Umar-949/hangman-TTT-you-vs-AI-.git
 
